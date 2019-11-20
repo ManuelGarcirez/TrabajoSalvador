@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'TrabajoSalvador';
+  creador = "Manuel Ramírez";
+  title = 'Aplicacion de Manuel Ramírez';
 }
